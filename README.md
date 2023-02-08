@@ -21,12 +21,16 @@ Backend application built using Flask for API calls in a Employee Survey Platfor
 
 Flask   
 MySQL   
-SQL Alchemy
+SQLAlchemy
 
 # Postman Screenshots
 
 
-<img width="1012" alt="image" src="https://user-images.githubusercontent.com/62547271/217514826-0a76e509-48e2-41da-8301-49a770b62cbb.png">
+<img width="1012" alt="image" src="https://user-images.githubusercontent.com/62547271/217514826-0a76e509-48e2-41da-8301-49a770b62cbb.png">   
+
+<img width="1014" alt="image" src="https://user-images.githubusercontent.com/62547271/217515719-ec204939-8ccf-4ac7-8e89-9e3a6422c2af.png">
+
+<img width="1040" alt="image" src="https://user-images.githubusercontent.com/62547271/217516833-f08afcec-bf35-4cf8-94d8-1ac0b3c6d667.png">
 
 
 
