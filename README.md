@@ -17,6 +17,12 @@ Backend application built using Flask for API calls in a Employee Survey Platfor
 3. Execute ```pip install -r requirements.txt```
 4. Execute ```python run.py```
 
+# Tech Stack
+
+Flask   
+MySQL 
+SQL Alchemy
+
 
 
 
