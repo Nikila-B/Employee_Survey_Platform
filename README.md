@@ -23,6 +23,15 @@ Flask
 MySQL   
 SQL Alchemy
 
+# Postman Screenshots
+
+
+<img width="1012" alt="image" src="https://user-images.githubusercontent.com/62547271/217514826-0a76e509-48e2-41da-8301-49a770b62cbb.png">
+
+
+
+
+
 
 
 
