@@ -20,7 +20,7 @@ Backend application built using Flask for API calls in a Employee Survey Platfor
 # Tech Stack
 
 Flask   
-MySQL 
+MySQL   
 SQL Alchemy
 
 
