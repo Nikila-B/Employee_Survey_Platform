@@ -20,7 +20,7 @@ app = Flask(__name__, template_folder='../templates', static_folder='../static')
 #app.config['SECRET_KEY'] = 'my secret key'
 
 # Database config
-app.config['SQLALCHEMY_DATABASE_URI'] = f"mysql+pymysql://root:Nikila123@localhost/cc_schema"
+app.config['SQLALCHEMY_DATABASE_URI'] = f"mysql://{os.getenv('MYSQL_USERNAME')}:{os.getenv('MYSQL_PASSWORD')}@{os.getenv('MYSQL_HOST')}/{os.getenv('DB_NAME')}"
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 app.config['CORS_HEADERS'] = 'Content-Type'
 
